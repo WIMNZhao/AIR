@@ -1,6 +1,6 @@
 # AI-augmented R-group exploration in medicinal chemistry
 
-This repo accompanies the preprint ["AI-augmented R-group exploration in medicinal chemistry"](https://).
+This repo accompanies the preprint ["AI-augmented R-group exploration in medicinal chemistry"](https://www.biorxiv.org/content/10.1101/2024.09.23.614417v1).
 
 ### Setting up the environment 
 
